@@ -27,7 +27,8 @@ There are 3 major ways to add CSS in HTML.
             &ltbutton&gt style="border : 1px solid grey; border-radius: 5px;"&gtClick Me&lt/button&gt
  &lt/div&gt
 </pre>
-<b>Internal CSS</b> - We can style HTML elements by creating a style tag in head as below
+  <b>Internal CSS</b> - We can style HTML elements by creating a style tag in the head as below. For selecting any element we will call them by 
+   using CSS selector. We will study this in brief CSS selectors in upcoming chapters.
 <pre>
 &lthead&gt
     &ltstyle&&ggtt
