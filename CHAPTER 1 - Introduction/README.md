@@ -16,8 +16,9 @@ There are 3 major ways to add CSS in HTML.
  a. Inline CSS
  b. Internal CSS
  c. External CSS
+<br>
 
-2. How to use-<hr>
+How to use-
 <b>Inline CSS</b> - We can style HTML elements by adding a style attribute in the opening tag as below
 <pre>
  &lth1 style="color : red"&gtThis is a heading of Inline CSS&lt/h1&gt
