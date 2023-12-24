@@ -12,11 +12,11 @@ Suppose HTML is the pillar of the house then CSS is the wall to create rooms and
 Using CSS in HTML is a very easy process.
 There are 3 major ways to add CSS in HTML. 
 
-<b>Methods of adding CSS</b>:
- a. Inline CSS
- b. Internal CSS
- c. External CSS
-<br>
+<b>Methods of adding CSS</b>:<br>
+ 1. Inline CSS
+ 2. Internal CSS
+ 3. External CSS
+
 
 ### How to use-
 <b>Inline CSS</b> - We can style HTML elements by adding a style attribute in the opening tag as below
