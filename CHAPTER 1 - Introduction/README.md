@@ -61,8 +61,12 @@ There are 3 major ways to add CSS in HTML.
 
 🔵 <b>External CSS</b> - We can style HTML elements by creating a separate style file and link it in the head of HTML as    below. For selecting elements we will use CSS selectors as internal CSS.<br>
 Step 1 : Create a link tag in Head
-<pre> &ltlink rel="stylesheet" href=" "&gt </pre>
+<pre>
+&ltlink rel="stylesheet" href=" "&gt
+</pre>
 Step 2 : Now create a style file as 'style.css' <br>
 Step 3 : Paste the URL of style.css in Link tag
-<pre> &lt link rel="stylesheet" href="style.css"&gt </pre>
+<pre>
+&ltlink rel="stylesheet" href="style.css"&gt
+</pre>
 
