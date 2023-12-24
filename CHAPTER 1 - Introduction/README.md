@@ -1,7 +1,7 @@
 # CHAPTER 1
 ## CSS - Introduction
 <p>
-🔴<b>What is CSS?</b><br>
+🔵<b>What is CSS?</b><br>
 CSS stands for 'Cascading Style Sheet'.
 It is used to style HTML pages, Which means the beauty of the webpage and how a page looks on the browser's screen.
 In simple language -
