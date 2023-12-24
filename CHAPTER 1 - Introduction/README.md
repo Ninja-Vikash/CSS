@@ -8,7 +8,7 @@ In simple language -
 Suppose HTML is the pillar of the house then CSS is the wall to create rooms and color on walls.
 </p>
 
-1. How can we use CSS in HTML?
+1. How can we use CSS in HTML?<br>
 Using CSS in HTML is a very easy process.
 There are 3 major ways to add CSS in HTML. 
 
