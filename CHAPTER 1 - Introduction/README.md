@@ -32,7 +32,7 @@ There are 3 major ways to add CSS in HTML.
    using CSS selector. We will study this in brief CSS selectors in upcoming chapters.
 <pre>
 &lthead&gt
-    &ltstyle&&ggtt
+    &ltstyle&gt
         .internal {
             font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
@@ -43,7 +43,7 @@ There are 3 major ways to add CSS in HTML.
         .internal div > button {
             font-size: 30px;
         }
-    &lt/style&&ggtt
+    &lt/style&gt
 &lt/head&gt
 
 &ltbody&gt
