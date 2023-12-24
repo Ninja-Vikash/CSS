@@ -1,0 +1,21 @@
+.external h2 {
+    font-family: sans-serif;
+    border : 1px solid black;
+}
+
+.external p {
+    color : red;
+    font-weight: 600;
+}
+
+.external span {
+    border : 5px solid red;
+}
+
+.external button {
+    background-color: blue;
+    color : white;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+}
