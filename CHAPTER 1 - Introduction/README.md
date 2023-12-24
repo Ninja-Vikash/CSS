@@ -29,7 +29,8 @@ There are 3 major ways to add CSS in HTML.
 </pre>
 <b>Internal CSS</b> - We can style HTML elements by creating a style tag in head as below
 <pre>
- <style>
+&lthead&gt
+    &ltstyle&&ggtt
         .internal {
             font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
@@ -40,5 +41,16 @@ There are 3 major ways to add CSS in HTML.
         .internal div > button {
             font-size: 30px;
         }
-    </style>
+    &lt/style&&ggtt
+&lt/head&gt
+
+&ltbody&gt
+    &ltsection class="internal"&gt
+        &lth2&gt>This is heading of Internal CSS&lt/h2&gt
+        &ltdiv&gt
+            &ltp&gtThis is a para of Internal CSS section&lt/p&gt
+            &ltbutton&gt>Click Here&lt/button&gt
+        &lt/div&gt
+    &lt/section&gt
+&lt/body&gt
 </pre>
