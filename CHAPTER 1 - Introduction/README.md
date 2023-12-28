@@ -28,6 +28,7 @@ There are 3 major ways to add CSS in HTML.
             &ltbutton&gt style="border : 1px solid grey; border-radius: 5px;"&gtClick Me&lt/button&gt
  &lt/div&gt
 </pre>
+In the above example &lt;h1&gt; has an attribute, which is called inline CSS `<h1 style="color : red">--context--</h1>`
 
 🔵 <b>Internal CSS</b> - We can style HTML elements by creating a style tag in the head as below. For selecting 
      any element we will call them by 
