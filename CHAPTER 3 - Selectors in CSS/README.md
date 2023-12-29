@@ -15,3 +15,5 @@
 10. Adjacent Sibling Combinator - `span + h4{key : value}`
 11. General Sibling Combinator - `div h3 ~ h5{key : value}`
 12. Combined Selector - `div h3, div h4{key : value}`
+
+## More info about all selectors
