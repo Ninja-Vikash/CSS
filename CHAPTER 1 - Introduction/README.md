@@ -62,11 +62,11 @@ In the above example &lt;h1&gt; has an attribute, which adds inline CSS to &lt;h
 **Note** : I used a class selector to style `<section>` by using a dot (.), `.internal` is a class of `<section>`. <br>
 `<section class="internal">....</section>`
 
-🔵 <b>External CSS</b> - We can style HTML elements by creating a separate style file and link it in the head of HTML as    below. For selecting elements we will use CSS selectors as internal CSS.<br>
+🔵 <b>External CSS</b> - We can style HTML elements by creating a separate style file and link it in the head of HTML as    below. For selecting elements we will use CSS selectors to select any element as internal CSS.<br>
 Step 1 : Create a link tag in Head
-<pre>
-&ltlink rel="stylesheet" href=" "&gt
-</pre>
+
+`<link rel="stylesheet" href=" ">`
+
 Step 2 : Now create a style file as 'style.css' <br>
 Step 3 : Paste the URL of style.css in Link tag
 <pre>
