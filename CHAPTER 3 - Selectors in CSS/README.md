@@ -10,3 +10,8 @@
 5. Attribute Selector - `input[type="text"]{key : value}`
 6. Pseudo-class Selector - `div p:nth-child(1){key : value}`
 7. Pseudo-element Selector - `p::firstline{key : value}`
+8. Descendant Combinator - `div span{key : value}`
+9. Child Combinator - `div > span{key : value}`
+10. Adjacent Sibling Combinator - `span + h4{key : value}`
+11. General Sibling Combinator - `div h3 ~ h5{key : value}`
+12. Combined Selector - `div h3, div h4{key : value}`
