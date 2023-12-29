@@ -1,9 +1,9 @@
 # CHAPTER 2
-## CSS Syntax for styling internal and external CSS
+## CSS Syntax for styling internal and external CSS <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="20px" />
 
 ### Syntax for styling
 
-All the styling properties accept key : value pair.
+All the styling properties accept `key : value` pair.
 
 eg.
 <pre>
