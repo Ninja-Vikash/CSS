@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selectors in CSS</title>
+    <style>
+        /* ============ TYPE SELECTOR ============= */
+        header {
+            height : 40px;
+            width : 100%;
+            background-color: red;
+        }
+        h1 {
+            color : aqua;
+        }
+        /* ============= UNIVERSAL SELECTOR ============== */
+         * {
+         margin : 0;
+         padding : 0;
+         box-sizing : border-box;
+         font-family : 'Gilroy';
+         }
+         /* ============ CLASS SELECTOR =========== */
+         .para {
+            font-size: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color : greenyellow;
+            background-color: aliceblue;
+         }
+         .about {
+            font-weight: 500;
+            text-align: center;
+         }
+         /* =========== ID SELECTOR ============= */
+         #name {
+            font-size: 30px;
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color : blueviolet;
+            background-color: aqua;
+         }
+         /* ============ ATTRIBUTE SELECTOR ============ */
+         input[type='text'] {
+            border : 2px solid black;
+         }
+         input[type='email']{
+            height : 30px;
+            width : 200px;
+            border : 2px solid yellowgreen;
+            border-radius: 10px;
+         }
+         /* ============ PSEUDO CLASS SELECTOR ============= */
+         .container div:nth-child(1){
+            height : 100px;
+            width : 100px;
+            background-color: yellow;
+            font-size: 30px;
+         }
+         .container div:last-child{
+            height : 120px;
+            width : 120px;
+            background-color: lightgreen;
+         }
+         /* ============= SEUDO ELEMENT SELECTOR ============ */
+         p::first-line {
+            font-weight: 700;
+            font-size: 34px;
+         }
+         /* =========== DESCENDANT COMBINATOR SELECTOR ============ */
+         div span {
+            font-size: 20px;
+            color : red;
+         }
+         /* =========== CHILD COMBINATOR SELECTOR ========== */
+         div > span {
+            font-size: 24px;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+         }
+         /* =========== ADJACENT SIBLING COMBINATOR ============= */
+         div span + h4 {
+            font-family: Arial, Helvetica, sans-serif;
+            color : rebeccapurple;
+         }
+         /* =========== GENRAL SIBLING COMBINATOR ============ */
+         div h3 ~ h5 {
+            text-decoration: underline;
+         }
+         /* =========== COMBINED SELECTOR =========== */
+         div h3,
+         div h4,
+         div h3 {
+            color : blueviolet
+         }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>This is a 'Heading'</h1>
+    </header>
+
+    <body>
+        <h2>Hello this is a second level heading</h2>
+        <p>This is a paragraph Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis assumenda provident at totam delectus porro soluta. Nobis temporibus veritatis maxime, fugit unde nam accusamus iusto vel corrupti saepe numquam natus ullam fuga et. Fugiat, in voluptates minus dolores inventore est laudantium quod nulla praesentium culpa.</p>
+        <p class="para">This is a random paragraph</p>
+        <p class="about">Hello I am ninja-vikash, and I'm a developer!</p>
+        <h1>Lorem ipsum dolor sit amet consectetur.</h1>
+        <h3 id="name">ninja-vikash</h3>
+        <div>
+            <input type="text"> <br>
+            <input type="email">
+        </div>
+        <div class="container">
+            <div>Hello</div>
+            <div>World!</div>
+        </div>
+        <div>
+            <h3>Hello this is <span>ninja-vikash</span></h3>
+            <span>I am span</span>
+            <h4>This is fourth level heading</h4>
+            <h5>This is a fifth level heading</h5>
+        </div>
+        <hr>
+        <section>
+            <h3>This is a heading</h3>
+            <h4>This is a heading</h4>
+            <h2>This is a heading</h2>
+        </section>
+    </body>
+</body>
+</html>
