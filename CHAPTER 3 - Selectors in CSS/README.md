@@ -17,3 +17,5 @@
 12. Combined Selector - `div h3, div h4{key : value}`
 
 ## More info about all selectors
+### Type Selector
+A type selector in CSS is used to select an HTML tag/element in a document. 
