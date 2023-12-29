@@ -44,7 +44,7 @@ The * selector selects all elements.
 The * selector can also select all elements inside another element.
 
 ### Class Selector
-The .class selector selects elements with a specific class attribute. We use a dot(.) with the name of class to select the specific element by their class name.
+The .class selector selects elements with a specific class attribute. We use the syntax `.class` to select the specific element by its class name.
 <pre>
   .class1 {
     font-size: 20px;
