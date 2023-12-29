@@ -1,5 +1,5 @@
 # CHAPTER 1
-## CSS - Introduction
+## Introduction of CSS <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="30px"/>
 <p>
 🔵 <b>What is CSS?</b><br>
 CSS stands for 'Cascading Style Sheet'.
