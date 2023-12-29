@@ -29,7 +29,7 @@ There are 3 major ways to add CSS in HTML.
 </pre>
 In the above example &lt;h1&gt; has an attribute, which adds inline CSS to &lt;h1&gt; as  `<h1 style="color : red">--context--</h1>`
 
-🔵 <b>Internal CSS</b> - We can style HTML elements by creating a style tag in the head as below. For selecting 
+🔵 <b>Internal CSS</b> - We can style HTML elements by creating a `<style>` tag in the head as below. For selecting 
      any element we will call them by 
      using CSS selector. We will study this in brief CSS selectors in upcoming chapters.
 <pre>
