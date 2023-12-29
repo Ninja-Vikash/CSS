@@ -21,8 +21,8 @@ eg.
 
 In the above example<br>
 &lt;h1&gt; has two properties <br>
-`color ---> key` | `red ---> value`
-`background-color ---> key` | `yellow ---> value`
+`color ---> key` | `red ---> value` <br>
+`background-color ---> key` | `yellow ---> value` <br>
 &lt;p&gt; has two properties <br>
-color ---> key | blue ---> value
-font-weight ---> key | bold ---> value
+`color ---> key` | `blue ---> value` <br>
+`font-weight ---> key` | `bold ---> value`
