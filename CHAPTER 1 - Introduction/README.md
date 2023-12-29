@@ -68,8 +68,8 @@ Step 1 - Create a `<link>` tag inside ---> `<head>`
 <pre>
 &lt;link rel="stylesheet" href=" "&gt; 
 </pre>
-Here in the link tag rel attribute defines the relation of the linked file with the HTML file. <br>
-Step 2 - Now create a style file as `'style.css'` <br>
+Here in the link tag rel attribute defines the relation of the linked file with the HTML file. <br> <br>
+Step 2 - Now create a style file as `'style.css'` <br> <br>
 Step 3 - Paste the relative URL of `style.css` in the href attribute of `<link>` tag
 <pre>
 &ltlink rel="stylesheet" href="style.css"&gt
