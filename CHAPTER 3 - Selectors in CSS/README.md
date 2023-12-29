@@ -30,3 +30,30 @@ A type selector in CSS is used to select an HTML tag/element in a document.
   }
 </pre>
 It is also known as a tag name selector or element selector. Type selectors are not case-sensitive, and they correspond with any HTML element type.
+
+### Universal Selector
+The * selector selects all elements.
+<pre>
+  * {
+     margin : 0;
+     padding : 0;
+     box-sizing : border-box;
+     font-family : 'Gilroy';
+   }
+</pre>
+The * selector can also select all elements inside another element.
+
+### Class Selector
+The .class selector selects elements with a specific class attribute. We use a dot(.) with the name of class to select the specific element by their class name.
+<pre>
+  .class1 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color : greenyellow;
+    background-color: aliceblue;
+   }
+   .class2 {
+    font-weight: 500;
+    text-align: center;
+   }
+</pre>
