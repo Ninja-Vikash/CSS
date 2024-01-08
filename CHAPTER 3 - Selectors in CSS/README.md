@@ -72,5 +72,6 @@ The id selector selects elements with a specific id attribute. We use the syntax
   background-color: aqua;
 }
 </pre>
-**Note**: We can give only one id to an element. If you use the same id in multiple elements, it will against of CSS rule.
+**Note**: We can give only one id to an element. If you use the same id in multiple elements, it will against of CSS rule. <br>
+`<h2 id="username">Ninja Vikash</h2>`
 
