@@ -17,7 +17,7 @@
 12. Combined Selector - `div h3, div h4{key : value}`
 
 ## More info about all selectors
-### Type Selector
+### 🔵 Type Selector
 A type selector in CSS is used to select an HTML tag/element in a document.
 <pre>
   header {
@@ -31,7 +31,7 @@ A type selector in CSS is used to select an HTML tag/element in a document.
 </pre>
 It is also known as a tag name selector or element selector. Type selectors are not case-sensitive, and they correspond with any HTML element type.
 
-### Universal Selector
+### 🔵 Universal Selector
 The * selector selects all elements.
 <pre>
   * {
@@ -43,7 +43,7 @@ The * selector selects all elements.
 </pre>
 The * selector can also select all elements inside another element.
 
-### Class Selector
+### 🔵 Class Selector
 The .class selector selects elements with a specific class attribute. We use the syntax `.class` to select the specific element by its class name.
 <pre>
   .class1 {
