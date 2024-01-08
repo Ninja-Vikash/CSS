@@ -2,8 +2,9 @@
 ## Selectors in CSS <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="20px">
 
 ### Useful selectors
-| --- | --- | --- |
-|1.| Type Selector |- `h1{key : value}` |
+|  | Selectors | Syntax |
+|:---:|:---:|:---:|
+|1| Type Selector | `h1{key : value}` |
 2. Universal Selector - `*{key : value}`
 3. Class Selector - `.class{key : value}`
 4. Id Selector - `#id{key : value}`
