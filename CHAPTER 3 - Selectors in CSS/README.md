@@ -34,12 +34,12 @@ It is also known as a tag name selector or element selector. Type selectors are 
 ### 🔵 Universal Selector
 The * selector selects all elements.
 <pre>
-  * {
-     margin : 0;
-     padding : 0;
-     box-sizing : border-box;
-     font-family : 'Gilroy';
-   }
+* {
+   margin : 0;
+   padding : 0;
+   box-sizing : border-box;
+   font-family : 'Gilroy';
+}
 </pre>
 The * selector can also select all elements inside another element.
 
