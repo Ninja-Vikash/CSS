@@ -14,6 +14,6 @@
 
 ## Topics Available
 
-### <a href="https://github.com/Ninja-Vikash/CSS/tree/main/CHAPTER%201%20-%20Introduction">CSS Introduction</a>
-### <a href="https://github.com/Ninja-Vikash/CSS/tree/main/CHAPTER%202%20-%20CSS%20Syntax">CSS Syntax Writing</a>
-### <a href="https://github.com/Ninja-Vikash/CSS/tree/main/CHAPTER%203%20-%20Selectors%20in%20CSS">Selectors in CSS</a>
+### ● <a href="https://github.com/Ninja-Vikash/CSS/tree/main/CHAPTER%201%20-%20Introduction">CSS Introduction</a>
+### ● <a href="https://github.com/Ninja-Vikash/CSS/tree/main/CHAPTER%202%20-%20CSS%20Syntax">CSS Syntax Writing</a>
+### ● <a href="https://github.com/Ninja-Vikash/CSS/tree/main/CHAPTER%203%20-%20Selectors%20in%20CSS">Selectors in CSS</a>
