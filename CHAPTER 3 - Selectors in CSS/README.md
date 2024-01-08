@@ -3,7 +3,7 @@
 
 ### Useful selectors
 |  | Selectors | Syntax |
-|:---:|:---:|:---:|
+|:---:|:---|:---|
 |1| Type Selector | `h1{key : value}` |
 |2| Universal Selector | `*{key : value}` |
 |3| Class Selector | `.class{key : value}` |
