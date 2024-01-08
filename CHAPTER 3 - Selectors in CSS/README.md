@@ -20,14 +20,14 @@
 ### 🔵 Type Selector
 A type selector in CSS is used to select an HTML tag/element in a document.
 <pre>
-  header {
-    height : 40px;
-    width : 100%;
-    background-color: red;
-  }
-  h1 {
-    color : aqua;
-  }
+header {
+  height : 40px;
+  width : 100%;
+  background-color: red;
+}
+h1 {
+  color : aqua;
+}
 </pre>
 It is also known as a tag name selector or element selector. Type selectors are not case-sensitive, and they correspond with any HTML element type.
 
