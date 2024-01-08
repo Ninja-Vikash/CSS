@@ -44,16 +44,32 @@ The * selector selects all elements.
 The * selector can also select all elements inside another element.
 
 ### 🔵 Class Selector
-The .class selector selects elements with a specific class attribute. We use the syntax `.class` to select the specific element by its class name.
+The class selector selects elements with a specific class attribute. We use the syntax `.class` to select the specific element by its class name.
 <pre>
-  .class1 {
-    font-size: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color : greenyellow;
-    background-color: aliceblue;
-   }
-   .class2 {
-    font-weight: 500;
-    text-align: center;
-   }
+.class1 {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color : greenyellow;
+  background-color: aliceblue;
+}
+.class2 {
+  font-weight: 500;
+  text-align: center;
+}
 </pre>
+**Note**: We can give multiple classes to an element. We can use a class in multiple elements.<br>
+`<h1 class="class1 class2">Hello World!</h1>`
+
+### 🔵 Id Selector
+The id selector selects elements with a specific id attribute. We use the syntax `#id` to select the specific element by its id name.
+<pre>
+#my-text {
+  font-size: 30px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color : blueviolet;
+  background-color: aqua;
+}
+</pre>
+**Note**: We can give only one id to an element. If you use the same id in multiple elements, it will against of CSS rule.
+
