@@ -81,5 +81,6 @@ The [attribute="value"] selector is used to select elements with a specified att
 input[type="text"] {
   font-size : 20px;
   font-weight : 500;
+}
 </pre>
 
