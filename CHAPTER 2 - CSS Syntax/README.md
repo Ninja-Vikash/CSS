@@ -26,3 +26,5 @@ In the above example<br>
 &lt;p&gt; has two properties <br>
 `color ---> key` | `blue ---> value` <br>
 `font-weight ---> key` | `bold ---> value`
+
+**We will discuss more CSS properties in further chapters**
