@@ -12,3 +12,5 @@ Before styling our webpage, we must reset CSS because every element has some spa
   box-sizing : border-box;
 }
 </pre>
+
+### 🔵 Color Property
