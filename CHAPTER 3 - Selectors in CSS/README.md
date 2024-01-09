@@ -75,3 +75,11 @@ The id selector selects elements with a specific id attribute. We use the syntax
 **Note**: We can give only one id to an element. If you use the same id in multiple elements, it will against of CSS rule. <br>
 `<h2 id="username">Ninja Vikash</h2>`
 
+### 🔵 Attribute Selector
+The [attribute="value"] selector is used to select elements with a specified attribute and value.
+<pre>
+input[type="text"] {
+  font-size : 20px;
+  font-weight : 500;
+</pre>
+
