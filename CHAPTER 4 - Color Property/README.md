@@ -20,7 +20,7 @@ In color property, we can give value in multiple ways -
 3. Using HEX value - `color : #000`
 4. Using HSL value -
 
-### 🔵 What is RGB value and How to use it? | What is RGBA?
+### 🔵 What is RGB value? | What is RGBA?
 The rgb() function defines colors using the Red-green-blue (RGB) model.
 <br>
 An RGB color value is specified with `rgb(red, green, blue)`. Each parameter defines the intensity of that color and can be an integer between 0 and 255.
