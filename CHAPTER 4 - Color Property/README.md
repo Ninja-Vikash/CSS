@@ -16,3 +16,5 @@ Before styling our webpage, we must reset CSS because every element has some spa
 ### 🔵 Color Property
 In color property, we can give value in multiple ways -
 1. Using the name of color - `color : red` , `color : blue` , `color : cyan`.
+2. Using RGB value - `color : rgb(0, 0, 0)`.
+3. Using HEX value - `color : #000`
