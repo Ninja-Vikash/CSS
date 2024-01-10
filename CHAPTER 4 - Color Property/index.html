@@ -12,9 +12,13 @@
             box-sizing: border-box;
         }
 
+        section {
+            background-color: grey;
+        }
+
         .box {
-            height : 100px;
-            width : 100px;
+            height : 50px;
+            width : 150px;
             border : 1px solid black;
         }
 
@@ -24,38 +28,45 @@
         }
 
         .blue {
-            color : blue;
+            color : rgb(0, 0, 255);
+            background-color: rgb(102, 0, 0, 0.5);
         }
 
         .green {
-            color : green;
+            color : #00ff00;
+            background-color: #111111;
         }
 
         .yellow {
-            color : yellow;
-            background-color: blueviolet;
+            color : #e3e3ff;
+            background-color: #892be2d0;
         }
 
         .orange {
-            color : orange;
+            color : hsl(40, 100%, 50%);
+            background-color: hsl(238, 100%, 51%);
         }
     </style>
 </head>
 <body>
-    <div class="box red">
-        hello world!
-    </div>
-    <div class="box blue">
-        I'm ninja vikash!
-    </div>
-    <div class="box green">
-        I'm a web developer!
-    </div>
-    <div class="box yellow">
-        You are learning CSS!
-    </div>
-    <div class="box orange">
-        On my GitHub!
-    </div>
+    <section>
+
+        <div class="box red">
+            hello world!
+        </div>
+        <div class="box blue">
+            I'm ninja vikash!
+        </div>
+        <div class="box green">
+            I'm a web developer!
+        </div>
+        <div class="box yellow">
+            You are learning CSS!
+        </div>
+        <div class="box orange">
+            On my GitHub!
+        </div>
+        
+    </section>
 </body>
 </html>
