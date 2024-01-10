@@ -18,3 +18,14 @@ In color property, we can give value in multiple ways -
 1. Using the name of color - `color : red` , `color : blue` , `color : cyan`.
 2. Using RGB value - `color : rgb(0, 0, 0)`.
 3. Using HEX value - `color : #000`
+
+### 🔵 What is RGB value and How to use it? | What is RGBA?
+The rgb() function defines colors using the Red-green-blue (RGB) model.
+<br>
+An RGB color value is specified with: `rgb(red, green, blue)`. Each parameter defines the intensity of that color and can be an integer between 0 and 255.
+<br>
+For example `rgb(255, 0, 0)` = red <br>
+**Note**: We can set the opacity of color by adding one more letter in rgba(), where 'a' defines the alpha value i.e., the opacity of the color.
+<br>
+As `rgb(255, 0, 0, 0.5)` <br>
+The alpha parameter uses a range between 0.0 (fully transparent) and 1.0 (Not transparent)
