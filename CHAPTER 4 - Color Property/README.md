@@ -58,3 +58,6 @@ Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 24
   color : hsl(40, 60%, 50%)
 }
 </pre>
+
+
+**Most Useful color value are HEX, RGB**
