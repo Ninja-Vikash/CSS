@@ -42,4 +42,19 @@ A hexadecimal color is specified with: #RRGGBB, where the RR (red), GG (green) a
 A HEX color value is specified with `#rrggbb`. Where rr defines red color, gg defines green color, bb defines blue color. Each parameter defines the intensity of that color as rgb color and can be a range between 00 and ff.
 <br>
 For example `#00ff00` = green <br>
-**Note**: We can also set the opacity in HEX color using 
+**Note**: We can also set the opacity in HEX color using extra two hexadecimal values. <br>
+As `#00ff000b`
+<pre>
+.class {
+  color : #00ff000b;
+}
+</pre>
+
+### 🔵 What is HSL?
+HSL stands for hue, saturation, and lightness. <br>
+Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue. Saturation is a percentage value. 0% means a shade of gray, and 100% is the full color. Lightness is also a percentage. 0% is black, 50% is neither light or dark, 100% is white
+<pre>
+.class {
+  color : hsl(40, 60%, 50%)
+}
+</pre>
