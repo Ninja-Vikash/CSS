@@ -17,7 +17,7 @@ We have already learned how to set color values in the previous chapter.
   4. `background-position : center;`
   5. `background-position : bottom 50px right 100px;`
 
-### Fonts in CSS
+### 🔵 Fonts in CSS
 Fonts are used for different and stylish fonts to show text beautifully. <br>
 ● **font-family** : There are so many inbuilt font families available. `serif`,  `sans-serif`, `monospace`, `cursive`, etc. <br>
 ● **font-style** : There are few values used in font-style property. `normal`, `italic`,  `oblique`, `oblique 40deg`, etc. <br>
