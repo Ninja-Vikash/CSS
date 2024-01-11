@@ -50,7 +50,7 @@ As `#00ff000b`
 }
 </pre>
 
-### 🔵 What is HSL?
+### 🔵 What is HSL value?
 HSL stands for hue, saturation, and lightness. <br>
 Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue. Saturation is a percentage value. 0% means a shade of gray, and 100% is the full color. Lightness is also a percentage. 0% is black, 50% is neither light or dark, 100% is white
 <pre>
