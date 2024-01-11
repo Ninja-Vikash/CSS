@@ -18,7 +18,7 @@ In color property, we can give value in multiple ways -
 1. Using the name of color - `color : red`.
 2. Using RGB value - `color : rgb(0, 0, 0)`.
 3. Using HEX value - `color : #000`
-4. Using HSL value -
+4. Using HSL value - `color : hsl(40, 60%, 50%)`
 
 ### 🔵 What is RGB value? | What is RGBA?
 The rgb() function defines colors using the Red-green-blue (RGB) model.
