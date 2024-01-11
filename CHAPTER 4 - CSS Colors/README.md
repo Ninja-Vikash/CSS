@@ -61,3 +61,5 @@ Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 24
 
 
 **Most Useful color values are HEX, RGB**
+<br>
+**WE USE ALL THESE COLOR VALUES IN ALL COLOR-RELATED PROPERTIES** color, background-color, border-color, and so on...
