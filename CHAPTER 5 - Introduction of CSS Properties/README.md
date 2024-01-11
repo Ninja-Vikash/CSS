@@ -10,5 +10,5 @@ We have already learned how to set color values in the previous chapter.
 
 <br> <br>
 ● **background-image** : Use to set an image on the back of the content. <br>
-&nbsp;&nbsp; As `background-image : url("image.jpeg")`
+&nbsp;&nbsp; As `background-image : url("image.jpeg")` <br>
 &nbsp;&nbsp; We can use both absolute and relative url in background-image property.
