@@ -15,6 +15,10 @@ We have already learned how to set color values in the previous chapter.
   2. `background-position : left;`
   3. `background-position : right;`
   4. `background-position : center;`
-  5. `background-position : bottom 50px right 100px;` <br><br>
+  5. `background-position : bottom 50px right 100px;`
+
 ### Fonts in CSS
-● **font-family**
+Fonts are used for different and stylish fonts to show text beautifully. <br>
+● **font-family** : There are so many inbuilt font families available. `serif`,  `sans-serif`, `monospace`, `cursive`, etc.
+● **font-style** : There are few values used in font-style property. `normal`, `italic`,  `oblique`, `oblique 40deg`, etc.
+● **font-size** : To set font size we use some values. `1.2em`, `x-small`, `smaller`, `80%`, `12px`, etc.
