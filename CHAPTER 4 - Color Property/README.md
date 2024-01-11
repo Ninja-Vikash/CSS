@@ -15,8 +15,8 @@ Before styling our webpage, we must reset CSS because every element has some spa
 
 ### 🔵 Color Property
 In color property, we can give value in multiple ways -
-1. Using the name of color - `color : red`.
-2. Using RGB value - `color : rgb(0, 0, 0)`.
+1. Using the name of color - `color : red`
+2. Using RGB value - `color : rgb(0, 0, 0)`
 3. Using HEX value - `color : #000`
 4. Using HSL value - `color : hsl(40, 60%, 50%)`
 
@@ -60,4 +60,4 @@ Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 24
 </pre>
 
 
-**Most Useful color value are HEX, RGB**
+**Most Useful color values are HEX, RGB**
