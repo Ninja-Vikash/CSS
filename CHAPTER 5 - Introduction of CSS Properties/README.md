@@ -1,7 +1,7 @@
 # CHAPTER 5
 ## Introduction properties of CSS <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="20px">
 
-### 🔵  Useful properties in CSS
+### 🔵 Color | Background Properties
 ● **color** : Used to give color to text to make text highlighted. <br>
 ● **background-color** : for coloring the background area of text, i.e., padding area of text. <br>
 ● **border-color** : for coloring the box of text. <br><br>
@@ -15,4 +15,6 @@ We have already learned how to set color values in the previous chapter.
   2. `background-position : left;`
   3. `background-position : right;`
   4. `background-position : center;`
-  5. `background-position : bottom 50px right 100px;`
+  5. `background-position : bottom 50px right 100px;` <br><br>
+### Fonts in CSS
+● **font-family**
