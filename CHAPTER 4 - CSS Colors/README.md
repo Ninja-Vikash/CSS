@@ -13,8 +13,8 @@ Before styling our webpage, we must reset CSS because every element has some spa
 }
 </pre>
 
-### 🔵 Color Property
-In color property, we can give value in multiple ways -
+### 🔵 Use of Colors in CSS <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="20px">
+We can set colors in CSS in multiple methods-
 1. Using the name of color - `color : red`
 2. Using RGB value - `color : rgb(0, 0, 0)`
 3. Using HEX value - `color : #000`
