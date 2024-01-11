@@ -1,5 +1,5 @@
 # CHAPTER 4
-## Resetting CSS for new webpage | Color Property in CSS <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="20px">
+## Resetting CSS for new webpage | CSS Colors <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="20px">
 
 ### 🔵 Why do we need to reset our webpage before styling?
 Before styling our webpage, we must reset CSS because every element has some space surrounding it by default.
