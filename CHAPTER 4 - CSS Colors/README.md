@@ -20,7 +20,7 @@ We can set colors in CSS in multiple methods-
 3. Using HEX value - `color : #000`
 4. Using HSL value - `color : hsl(40, 60%, 50%)`
 
-### 🔵 What is RGB value? | What is RGBA?
+### 🔵 What is RGB value? | What is RGBA value?
 The rgb() function defines colors using the Red-green-blue (RGB) model.
 <br>
 An RGB color value is specified with `rgb(red, green, blue)`. Each parameter defines the intensity of that color and can be an integer between 0 and 255.
