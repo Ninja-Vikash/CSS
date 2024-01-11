@@ -21,4 +21,6 @@ We have already learned how to set color values in the previous chapter.
 Fonts are used for different and stylish fonts to show text beautifully. <br>
 ● **font-family** : There are so many inbuilt font families available. `serif`,  `sans-serif`, `monospace`, `cursive`, etc. <br>
 ● **font-style** : There are few values used in font-style property. `normal`, `italic`,  `oblique`, `oblique 40deg`, etc. <br>
-● **font-size** : To set font size we use some values. `1.2em`, `x-small`, `smaller`, `80%`, `12px`, etc.
+● **font-size** : To set font size we use some values. `1.2em`, `x-small`, `smaller`, `80%`, `12px`, etc. <br>
+● **font-weight** : To set thickness of text in the range of 100-900. `100` &lt;--------&gt; `400` &lt;--------&gt; `900` <br>
+&nbsp;&nbsp; `100` = thinest , `400` = normal , & `900` = boldest
