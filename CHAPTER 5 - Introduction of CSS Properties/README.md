@@ -9,7 +9,7 @@ We have already learned how to set color values in the previous chapter.
 <br> <br>
 ● **background-image** : Use to set an image on the back of the content. <br>
 &nbsp;&nbsp; As `background-image : url("image.jpeg")` <br>
-&nbsp;&nbsp; We can use both absolute and relative URLs in background-image property. <br>
+&nbsp;&nbsp; We can use both absolute and relative URLs in background-image property. <br><br>
 ● **background-position** : Use to set the position of background-image. And place the image where you want to show in the webpage. <br>
   1. `background-position : top;`
   2. `background-position : left;`
