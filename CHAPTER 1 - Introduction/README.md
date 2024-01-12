@@ -2,7 +2,7 @@
 ## Introduction of CSS <img src="https://github.com/Ninja-Vikash/Assets/blob/main/Asset%20Icon/cssLogo.png" height="20px"/>
 <p>
 🔵 <b>What is CSS?</b><br>
-CSS stands for 'Cascading Style Sheet'.
+CSS stands for **Cascading Style Sheet**
 It is used to style HTML pages, Which means the beauty of the webpage and how a page looks on the browser's screen.
 In simple language -
 Suppose HTML is the pillar of the house then CSS is the wall to create rooms and color on walls.
